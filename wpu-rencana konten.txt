@@ -1,3 +1,5 @@
 Rencana konten WPU
 - Javascript
+* ES6
+*FRAMWORK JAVASCRIPT
 -interview
