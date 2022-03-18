@@ -5,7 +5,7 @@ Rencana konten WPU
  ^ Vue
  ^ react
 - struktur data dasar
--interview
+- interview
 - PHP Framework
 ^Laravel
 - python
