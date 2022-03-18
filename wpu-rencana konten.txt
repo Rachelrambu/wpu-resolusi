@@ -2,5 +2,8 @@ Rencana konten WPU
 - Javascript
 * ES6
 *FRAMWORK JAVASCRIPT
-- struktur data dasar
+^ angular
+^ react
 -interview
+- PHP Framework
+^ Laravel
